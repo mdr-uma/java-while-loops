@@ -13,3 +13,10 @@ public class App {
 	}
 
 }
+
+//outputs
+//Number is: 20
+//Number is: 22
+//Number is: 24
+//Number is: 26
+//Number is: 28
